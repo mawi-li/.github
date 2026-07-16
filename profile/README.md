@@ -20,15 +20,9 @@ Built on principles of precision, discipline, and absolute control, every projec
 ## 📦 **Official Repositories**
 
 <div align="center">
-  <h3>🚧 **Coming Soon**</h3>
-  <p>Official repositories are currently under development and will be released soon.</p>
-  <p>Each repository will follow the strict naming convention: <strong>mawi-[project-name]</strong></p>
-  
-  <img src="https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge&logo=github" alt="In Development">
-  
-  <br>
-  
-  <p><em>Stay tuned for powerful tools and frameworks that will revolutionize your development experience.</em></p>
+
+<img src="./github-snake-dark.svg" alt="snake"></center>
+
 </div>
 
 ---
@@ -37,7 +31,7 @@ Built on principles of precision, discipline, and absolute control, every projec
 
 <div align="center">
 
-  <a href="https://www.mawiman.com">
+  <a href="https://mawi.li">
     <img src="https://img.shields.io/badge/🌍_Official_Website-dc2626?style=for-the-badge" alt="Official Website">
   </a>
 
